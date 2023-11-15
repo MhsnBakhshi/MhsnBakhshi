@@ -1,4 +1,5 @@
 # Hi There! I'm Mohsen Bakhshi 🖐
+<br/>
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 
@@ -31,8 +32,6 @@
    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
    ![TailwindCss](https://img.shields.io/badge/-Tailwind%20Css-333333?style=flat&logo=tailwindcss)
-   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-   ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux)
 - ⚙️ &nbsp;
    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
