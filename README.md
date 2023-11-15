@@ -7,4 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhsnBakhshi" alt+="My language" />
 </a>
 
-### <img src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-contact-48%20(1).png?raw=true" width="50px" height="50px" /> Contact Me 
+<h2>
+  <img width='30px' src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-contact-48.png?raw=true" /> 
+  Contact Me
+</h2>
