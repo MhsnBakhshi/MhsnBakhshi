@@ -1,5 +1,20 @@
-# Hi there! I'm Mohsen Bakhshi 🖐
+# Hi There! I'm Mohsen Bakhshi 🖐
 
+<h2>
+  <img width='30px' src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-customer-48.png?raw=true" /> &nbsp;
+  About Me
+</h2>
+
+- 💻 ***Field Work***:
+   - *Junior* `👨‍💻 FrontEnd` *Developer* :)
+- ⭐ ***My Programming Language***:
+   - `👑 JavaScripts 👑` *&* `Js FreamWorks` :) 
+- 🍸 ***My Favorite Drink***:
+   - *I Love* `☕ Coffe` *a lot* :)
+  
+- ✍️ **Coding And Drinking Coffee Are My Hobby** :))
+
+<br/>
 
 <h2>
   <img width='30px' src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-skill-64.png?raw=true" /> &nbsp;
