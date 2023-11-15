@@ -15,11 +15,11 @@
   Contact Me
 </h2>
 <a href="https://t.me/mhsn_front">
-  <img src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-telegram.gif?raw=true" alt= "Telegram Page" />
-</a>
+  <img src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-telegram-48.png?raw=true" alt= "Telegram Page" />
+</a>&nbsp;
 <a href="https://instagram.com/mhsn.front">
   <img src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-instagram-48.png?raw=true" alt= "Instagram Page" />
-</a>
+</a>&nbsp;
 <a href="mhsn.bakhshi696@gmail.com">
   <img src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-gmail-48.png?raw=true" alt= "Gmail" />
 </a>
