@@ -13,7 +13,7 @@
 - 💻 ***Field Work***:
    - *Junior* `👨‍💻 FrontEnd` *Developer* :)
 - ⭐ ***My Programming Language***:
-   - `👑 JavaScripts 👑` *&* `Js FreamWorks` :) 
+   - `👑 JavaScript 👑` *&* `Js FreamWorks` :) 
 - 🍸 ***My Favorite Drink***:
    - *I Love* `☕ Coffe` *a lot* :)
   
