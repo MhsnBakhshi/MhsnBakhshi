@@ -10,7 +10,7 @@
   About Me
 </h2>
 
-- 💻 ***Field Work***:
+- 💻 ***Work Field***:
    - *Junior* `👨‍💻 FrontEnd` *Developer* :)
 - ⭐ ***My Programming Language***:
    - `👑 JavaScript 👑` *&* `Js FreamWorks` :) 
