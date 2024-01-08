@@ -13,15 +13,15 @@
   About Me
 </h2>
 
-- 💻 ***Work Field***:
-   - *Junior* `👨‍💻 FrontEnd` *Developer* :)
-- ⭐ ***My Programming Language***:
-   - `👑 JavaScript 👑` *&* `Js FreamWorks` :) 
-- 🍸 ***My Favorite Drink***:
-   - *I Love* `☕ Coffe` *a lot* :)
-  
-- ✍️ ***Coding And Drinking Coffee Are My Hobby*** :))
-
+const About Me = {
+  status: 302,
+  data: {
+    FullName: "Mohsen Bakhshi",
+    BirthDay: [2005٫ "January 7", "Friday"٫ "Ardabil"],
+    Hobbies: ["music", "podcast", "Learning"],
+        Note: `Any human can write codes that the computer can understand, but a good programmer writes codes that humans can understand :)`
+        },
+                 };
 <br/>
 
 <h2>
