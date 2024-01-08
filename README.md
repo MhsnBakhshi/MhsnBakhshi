@@ -1,4 +1,7 @@
-# Hi There! I'm Mohsen Bakhshi 🖐
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+Welcome+To+My+Profile!;I%27m+Mohsen+Bakhshi%F0%9F%96%90;I%27m+FrontEnd+Developer;&font=Fira%20Code&center=true&width=380&height=50&duration=2500&pause=2000" alt="Example Usage - README Typing SVG">
+</p>
+
 <br/>
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
