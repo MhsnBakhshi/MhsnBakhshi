@@ -14,11 +14,17 @@
 </h2>
 
 const About Me = {
+
   status: 302,
+
   data: {
+
     FullName: "Mohsen Bakhshi",
+
     BirthDay: [2005٫ "January 7", "Friday"٫ "Ardabil"],
+
     Hobbies: ["music", "podcast", "Learning"],
+
         Note: `Any human can write codes that the computer can understand, but a good programmer writes codes that humans can understand :)`
         },
                  };
