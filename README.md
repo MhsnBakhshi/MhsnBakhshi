@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+Welcome+To+My+Profile!;I%27m+Mohsen+Bakhshi%F0%9F%96%90;I%27m+FrontEnd+Developer;&font=Righteous&center=true&width=380&height=50&duration=2500&pause=2000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+Welcome+To+My+Profile!;I%27m+Mohsen+Bakhshi%F0%9F%96%90;I%27m+NodeJs+Developer;&font=Righteous&center=true&width=380&height=50&duration=2500&pause=2000" alt="Example Usage - README Typing SVG">
 </p>
 
 <br/>
@@ -19,7 +19,7 @@ const About Me = {
   data: {
     FullName: "Mohsen Bakhshi",
     BirthDay: [2005٫ "January 7", "Friday"٫ "Ardabil"],
-    Hobbies: ["music", "podcast", "Learning"],
+    Hobbies: ["music", "podcast", "Learning", "Coding"],
     Note: "Any human can write codes that the computer can understand, but a good programmer writes codes that humans can understand :)"
         },
                  };
@@ -31,19 +31,64 @@ const About Me = {
   Skills
 </h2>
 
-- 🌐 &nbsp;
-   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-   ![TailwindCss](https://img.shields.io/badge/-Tailwind%20Css-333333?style=flat&logo=tailwindcss)
-- ⚙️ &nbsp;
-   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="VsCode" />
+      <br>Expressjs
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="VsCode" />
+      <br>Nestjs
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+    </td>
+ </tr>
+</table>
+
 
 <br/>
 
