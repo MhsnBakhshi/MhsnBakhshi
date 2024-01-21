@@ -83,6 +83,10 @@ const About Me = {
       <br>Nestjs
     </td>
             <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="VsCode" />
+      <br>GraphQl
+    </td>
+            <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
     </td>
