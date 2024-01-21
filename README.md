@@ -113,14 +113,11 @@ const About Me = {
   Contact Me
 </h2>
 <p align= 'center'> 
-  <a href= "https://instagram.com/mhsn.front">
-    <img src= "https://img.shields.io/badge/Instagram-mhsn.front-red?style=flat&logo=instagram" />
+  <a href= "https://instagram.com/mhsn_js">
+    <img src= "https://img.shields.io/badge/Instagram-mhsn__js-red?style=flat&logo=instagram" />
   </a>
-    <a href="https://t.me/mhsn_front">
-    <img src= "https://img.shields.io/badge/Telegram-mhsn__front-blue?style=flat&logo=telegram" />
-  </a>
-   <a href= "https://github.com/mhsnbakhshi">
-    <img src= "https://img.shields.io/badge/Phone-+989909244937-yellow?style=flat&logo=allocine" />
+    <a href="https://t.me/mhsn_js">
+    <img src= "https://img.shields.io/badge/Telegram-mhsn__js-blue?style=flat&logo=telegram" />
   </a>
     <a href= "https://github.com/mhsnbakhshi">
     <img src= "https://img.shields.io/badge/Gmail-mhsn.bakhshi696@gmail.com-snow?style=flat&logo=gmail" />
