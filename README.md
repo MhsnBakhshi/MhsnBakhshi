@@ -113,10 +113,10 @@ const About Me = {
   Contact Me
 </h2>
 <p align= 'center'> 
-  <a href= "https://instagram.com/mhsn_js">
+<!--   <a href= "https://instagram.com/">
     <img src= "https://img.shields.io/badge/Instagram-mhsn__js-red?style=flat&logo=instagram" />
-  </a>
-    <a href="https://t.me/mhsn_js">
+  </a> -->
+    <a href="https://t.me/iDvMH">
     <img src= "https://img.shields.io/badge/Telegram-mhsn__js-blue?style=flat&logo=telegram" />
   </a>
     <a href= "https://github.com/mhsnbakhshi">
