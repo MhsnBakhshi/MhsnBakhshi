@@ -117,7 +117,7 @@ const About Me = {
     <img src= "https://img.shields.io/badge/Instagram-mhsn__js-red?style=flat&logo=instagram" />
   </a> -->
     <a href="https://t.me/iDvMH">
-    <img src= "https://img.shields.io/badge/Telegram-mhsn__js-blue?style=flat&logo=telegram" />
+    <img src= "https://img.shields.io/badge/Telegram-iDvMH-blue?style=flat&logo=telegram" />
   </a>
     <a href= "https://github.com/mhsnbakhshi">
     <img src= "https://img.shields.io/badge/Gmail-mhsn.bakhshi696@gmail.com-snow?style=flat&logo=gmail" />
