@@ -143,7 +143,3 @@ const About Me = {
     <img src= "https://img.shields.io/badge/Gmail-mhsn.bakhshi696@gmail.com-snow?style=flat&logo=gmail" />
   </a>
 </p>
-<hr>
-
-[![](https://visitcount.itsvg.in/api?id=MhsnBakhshi&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
