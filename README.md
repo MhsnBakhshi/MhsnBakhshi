@@ -19,8 +19,8 @@ const About Me = {
   data: {
     FullName: "Mohsen Bakhshi",
     BirthDay: [2005٫ "January 7", "Friday"٫ "Ardabil"],
-    Hobbies: ["music", "podcast", "Learning", "Coding"],
-    Note: "Any human can write codes that the computer can understand, but a good programmer writes codes that humans can understand :)"
+    Hobbies: ["Music", "Podcast", "Learning", "Coding", Caffee],
+    Note: "Errors & Bug Are My Friends ;)"
         },
                  };
 ```
@@ -59,14 +59,14 @@ const About Me = {
         <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="Git" />
       <br>GitLab
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="css" />
       <br>Postman
@@ -77,10 +77,10 @@ const About Me = {
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br>MongoDB
     </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="40" height="40" alt="MongoDB" />
       <br>PostgreSQL
-    </td>
+    </td> -->
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40" height="40" alt="MongoDB" />
       <br>Swagger
@@ -94,10 +94,10 @@ const About Me = {
         <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="VsCode" />
       <br>Expressjs
     </td>
-            <td align="center" width="96">
+<!--             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="VsCode" />
       <br>Nestjs
-    </td>
+    </td> -->
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="VsCode" />
       <br>GraphQl
