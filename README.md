@@ -19,8 +19,7 @@ const About Me = {
   data: {
     FullName: "Mohsen Bakhshi",
     BirthDay: [2005٫ "January 7", "Friday"٫ "Ardabil"],
-    Hobbies: ["Music", "Podcast", "Learning", "Coding", Caffee],
-    Note: "Errors & Bug Are My Friends ;)"
+    Hobbies: ["Music", "Podcast", "Learning", "Coding", "Caffee"]
         },
                  };
 ```
