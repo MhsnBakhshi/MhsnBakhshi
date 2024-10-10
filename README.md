@@ -58,17 +58,9 @@ const About Me = {
         <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="Git" />
       <br>GitLab
     </td>
-<!--     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
-    </td> -->
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="css" />
-      <br>Postman
+        <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="css" />
+      <br>Redis
     </td>
   </tr>
  <tr>
@@ -106,7 +98,7 @@ const About Me = {
       <br>VsCode
     </td>
             <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/0432bd5d9d34eb0fbd6f7ddfcced0f93d0c3742e98c8d87125879cd2222bf429/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39362f536f636b65742d696f2e7376672f32343070782d536f636b65742d696f2e7376672e706e67" width="40" height="40" alt="Secket.io" />
+        <img src="https://camo.githubusercontent.com/2ea32ebd0f20778a2d51ee8e1bac9a5ed9e27f4487b2324225aa00ba5aa6f538/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536f636b65742e696f2d6666666666663f7374796c653d666c61742d737175617265266c6f676f3d736f636b65742e696f266c6f676f436f6c6f723d626c61636b" alt="Secket.io" />
       <br>Socket.io
     </td>
  </tr>
