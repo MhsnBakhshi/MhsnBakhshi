@@ -62,19 +62,27 @@ const About Me = {
         <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="css" />
       <br>Redis
     </td>
+       <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40" height="40" alt="MongoDB" />
+      <br>Swagger
+    </td>
+       <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="40" height="40" alt="MongoDB" />
+      <br>Nginx
+    </td>
   </tr>
  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br>MongoDB
     </td>
-<!--       <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="40" height="40" alt="MongoDB" />
       <br>PostgreSQL
-    </td> -->
+    </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40" height="40" alt="MongoDB" />
-      <br>Swagger
+        <img src="https://github.com/MhsnBakhshi/uniqueRoom/blob/main/10566080.png" />
+      <br>Socket.io
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
@@ -85,21 +93,21 @@ const About Me = {
         <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="VsCode" />
       <br>Expressjs
     </td>
-<!--             <td align="center" width="96">
+            <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="VsCode" />
       <br>Nestjs
-    </td> -->
+    </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="VsCode" />
       <br>GraphQl
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg" width="40" height="40" alt="VsCode" />
+      <br>Apollo
     </td>
-            <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/2ea32ebd0f20778a2d51ee8e1bac9a5ed9e27f4487b2324225aa00ba5aa6f538/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536f636b65742e696f2d6666666666663f7374796c653d666c61742d737175617265266c6f676f3d736f636b65742e696f266c6f676f436f6c6f723d626c61636b" alt="Secket.io" />
-      <br>Socket.io
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="VsCode" />
+      <br>Docker
     </td>
  </tr>
 </table>
