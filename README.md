@@ -68,8 +68,8 @@ const About Me = {
       <br>Swagger
     </td>
        <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="40" height="40" alt="MongoDB" />
-      <br>Nginx
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="40" height="40" alt="MongoDB" />
+      <br>ElasticSearch
     </td>
   </tr>
  <tr>
