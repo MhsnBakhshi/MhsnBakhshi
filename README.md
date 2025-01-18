@@ -22,7 +22,7 @@ const About Me = {
   status: 302,
   data: {
     FullName: "Mohsen Bakhshi",
-    MyChannel: "https://t.me/Code_Unique",
+    MyChannel: "https://t.me/NodeUnique",
     BirthDay: [2005٫ "January 7", "Friday"٫ "Ardabil"],
     Hobbies: ["Music", "Podcast", "Learning", "Coding", "Caffee"]
         },
